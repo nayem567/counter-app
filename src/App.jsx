@@ -1,4 +1,3 @@
-import React from 'react'
 import './App.css'
 import Counter_app from './Components/Counter_app'
 
